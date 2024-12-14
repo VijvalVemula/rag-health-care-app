@@ -40,7 +40,7 @@ project_directory/
 ## Prerequisites
 1. **Python (>= 3.8)**: Ensure Python is installed on your system.
    - Download Python from [python.org](https://www.python.org/downloads/).
-2. **OpenAI API Key**: Sign up at [OpenAI](https://platform.openai.com/signup/) and generate an API key.
+2. **OpenAI API Key**: Sign up at [OpenAI](https://platform.openai.com/signup/) and generate an API key. **This is a mandatory step, as you need this key to authenticate this app.**
 3. **Streamlit**: Framework to build the web application.
 
 ---
@@ -59,11 +59,6 @@ Follow these steps to set up the project:
    python -m venv venv
    source venv/bin/activate    # Linux/Mac
    venv\Scripts\activate     # Windows
-   ```
-   `OR` 
-   ```bash
-   source ./app-env/bin/activate # Linux/Mac
-   app-env\Scripts\activate # Windows
    ```
 
 3. **Install Dependencies**:
