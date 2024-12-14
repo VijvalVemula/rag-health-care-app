@@ -185,5 +185,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ---
 
-## Author
-Developed by **VIJVAL VEMULA**. For questions or support, contact vemulavijval1@gmail.com.
+## Authors
+Developed by **VIJVAL VEMULA** and **ANAMIKA REKHA**. For questions or support, contact vemulavijval1@gmail.com or anamikarekha1999@gmail.com.
