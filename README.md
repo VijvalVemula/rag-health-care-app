@@ -33,7 +33,6 @@ project_directory/
 │
 ├── requirements.txt       # List of Python dependencies
 ├── README.md              # Detailed project documentation
-└── app-env                # (optional) A python virtual environment to install the dependencies for this project
 ```
 
 ---
