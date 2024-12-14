@@ -26,7 +26,6 @@ project_directory/
 ├── utils/
 │   ├── pdf_utils.py       # Utilities for handling PDF files
 │   ├── openai_utils.py    # Utilities for interacting with OpenAI API
-│   ├── creai_utils.py    # Utilities for interacting with crewai API
 │
 ├── css/
 │   └── styles.css         # Custom CSS for UI styling
